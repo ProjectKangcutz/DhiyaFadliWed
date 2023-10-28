@@ -5,6 +5,15 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+   font-family: 'pacifico';
+   src: url(img/Pacifico-Regular.tff);
+}
+
+* {
+   font-family: pacifico;
+}
 /* =======================================================
 *
 * 	Template Style 
